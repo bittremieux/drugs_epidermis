@@ -7,20 +7,20 @@ channels:
   - rapidsai
   - defaults
 dependencies:
-  - cudatoolkit=10.1.243=h6bb024c_0
-  - cuml=0.18.0=cuda10.1_py38_gb5f59e005_0
-  - joblib=1.0.1=pyhd8ed1ab_0
-  - jupyter=1.0.0=py38h578d9bd_6
-  - lxml=4.6.2=py38hf1fe3a4_1
-  - matplotlib=3.3.4=py38h578d9bd_0
-  - mordred=1.2.0=py_1
-  - numpy=1.20.1=py38h18fd61f_0
-  - pandas=1.1.5=py38h51da96c_0
-  - python=3.8.8=hffdb5ce_0_cpython
-  - rdkit=2020.09.3=py38h3f7302f_0
-  - scikit-learn=0.24.1=py38h658cfdd_0
-  - scipy=1.6.0=py38hb2138dd_0
-  - seaborn=0.11.1=hd8ed1ab_1
-  - shap=0.37.0=py38h0ef3d22_
-  - tqdm=4.58.0=pyhd8ed1ab_0
+  - cudatoolkit=10.1.243
+  - cuml=0.18.0
+  - joblib=1.0.1
+  - jupyter=1.0.0
+  - lxml=4.6.2
+  - matplotlib=3.3.4
+  - mordred=1.2.0
+  - numpy=1.20.1
+  - pandas=1.1.5
+  - python=3.8.8
+  - rdkit=2020.09.3
+  - scikit-learn=0.24.1
+  - scipy=1.6.0
+  - seaborn=0.11.1
+  - shap=0.39.0
+  - tqdm=4.58.0
 prefix: ~/.conda/envs/drugs_epidermis
